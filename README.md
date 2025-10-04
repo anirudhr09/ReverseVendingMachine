@@ -1,5 +1,7 @@
 # Reverse Vending Machine ♻️
 
+- Anirudh Ramesh, Shriya Senthilkumar, Aprajeeth Prasad, Adithya Subramani
+
 A socially impactful project that rewards users for recycling bottles and cans through an intelligent reverse vending system.
 
 ## 🚀 Overview
